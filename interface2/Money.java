@@ -1,0 +1,3 @@
+interface Money{
+ void moneyFare();
+ }

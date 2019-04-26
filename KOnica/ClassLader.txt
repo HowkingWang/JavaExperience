@@ -1,0 +1,15 @@
+
+class Lader{
+    float above;
+    float bottom;
+    float height;
+    float area;    //类体变量声明（刻画属性）
+    float computerArea(){
+       area = height*(above+bottom)/2.0f;
+        return area;                        
+     }
+   void resetHeight(float h){
+              height = h;
+   }                   //（函数方法）（执行功能）
+  }
+ 

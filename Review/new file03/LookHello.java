@@ -1,0 +1,3 @@
+interface LookHello{
+  void speakHello();
+  }

@@ -1,0 +1,3 @@
+interface ComputeWeight{
+  double computeWeight();
+}
